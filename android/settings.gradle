@@ -1,0 +1,3 @@
+rootProject.name = 'desafioNative'
+
+include ':app'
